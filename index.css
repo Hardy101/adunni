@@ -1,0 +1,36 @@
+.regular {
+  font-family: "Tangerine", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bold {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.d-regular {
+  font-family: "Dynalight", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.br-regular {
+  font-family: "Bonheur Royale", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mri {
+  font-family: "Josefin Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
